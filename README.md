@@ -1,1 +1,1 @@
-
+The AI part of this assignment lies in the AIRacer Prefab where all of the associated scripts can be found which are related to the AI system, although this system is being replaced by the Behaviour tree system that is in the project, I've been having trouble getting it working due to some issues with the plug-in and getting it functioning properly but some progress can be seen by opening the behaviour tree object. 
